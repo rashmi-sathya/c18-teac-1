@@ -1,1 +1,1 @@
-# c18-teac-1
+# C10-project-template
